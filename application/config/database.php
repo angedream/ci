@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'angerdream.vicp.net',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'anger',
 	'database' => 'ci',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => 'ci',
